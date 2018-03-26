@@ -5,22 +5,23 @@ Serverless Node.js examples using TypeScript are organized into groups and desig
 ## Build and Run from Source
 
 1. Install a recent version of [NodeJS]()
-2. Checkout the code and install dependencies
+2. Install a recent version of [Serverless]()
+3. Checkout the code and install dependencies
 ```
 git clone https://github.com/alertbox/serverless-examples-ts
 cd serverless-examples-ts
 ```
-3. Compile and run example
+4. Compile and run an example
 ```
 cd hello-world
 npm run start
 ```
-4. Install the [Postman]()
-5. [Play with the serverless]() example
+5. Install the [Postman]()
+6. [Play with the serverless]() example
 
 # Hello World
 
-These examples show a simple "Hello World" sample supported by the framework. All the examples written using TypeScript and can be executed from `serverless-offline`.
+These examples show a simple "Hello World" supported by the framework. All the examples written using TypeScript and can be executed from `serverless-offline`.
 
 |**Example**     | **Description**                                   
 | ---------------| ---------------------------------------------
